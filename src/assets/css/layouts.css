@@ -1,0 +1,8 @@
+header {
+    background-color: var(--color-secondary);
+    color: white;
+}
+footer {
+    background-color: var(--color-dark);
+    color: white;
+}

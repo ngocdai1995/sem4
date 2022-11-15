@@ -1,0 +1,5 @@
+.feature-item {
+    background-image: var(--gradient-gray);
+    color: white;
+    height: 620px;
+}
